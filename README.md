@@ -110,6 +110,7 @@ terraform init
 Check the configuration formatting and syntax:
 
 ```powershell
+terraform fmt
 terraform validate
 ```
 
